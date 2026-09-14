@@ -15,7 +15,8 @@
   - Production infrastructure and monitoring
 
   ## Learn more
-
+  
+  - [Official n8n workflow: Deduplicate inbound leads](https://n8n.io/workflows/19526-deduplicate-inbound-leads-from-a-webhook-with-a-data-table/)
   - [Morsof website](https://www.morsof.com/)
   - [Business automation services](https://www.morsof.com/fr/agence-automatisation-casablanca)
   - [n8n automation](https://www.morsof.com/en/services/n8n-automation)
